@@ -23,53 +23,87 @@ that matter in the real world.
 ---
 
 # 🎨 Skills, Tools & Frameworks  
-### (Animated — No Images)
+<!-- ===========================================================
+   🌟 Animated + Icon-Based Tech Stack (Clean & Professional)
+============================================================== -->
+
+<h2 align="center">🌈 Skills, Tools and Frameworks</h2>
+
+<p align="center">
+
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2700&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Languages+%7C+Frontend+%7C+Backend+%7C+ML+Tools" />
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
+
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" />
+
+  <!-- ML & Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" />
+
+</p>
 
 ---
 
-### 💻 Languages  
-```
-🟦 Java  
-🐍 Python  
-```
+<h2 align="center">🌐 Platforms</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=FFB300&center=false&vCenter=true&width=500&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+React.js;Node.js+%7C+Express.js;TensorFlow+%7C+Keras+%7C+Scikit-Learn;Pandas+%7C+NumPy;SQL+%7C+MongoDB" />
+<p align="center">
 
----
+  <!-- Animated Sub-Heading -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=8E44AD&center=true&vCenter=true&width=500&lines=Tools+I+Use+Daily" />
 
-# 🛠 Platforms & Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55" />
 
-```
-VS Code  
-Git & GitHub  
-Google Colab  
-IBM Cloud  
-Postman  
-Figma  
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=2ECC71&center=false&vCenter=true&width=500&lines=Productive+on+Web%2C+Cloud+%26+ML+Platforms." />
+</p>
 
 ---
 
-# 🗄 Databases
-```
-MySQL  
-MongoDB  
-```
+<h2 align="center">🗄 Databases</h2>
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=27AE60&center=true&vCenter=true&width=500&lines=Storing+and+Structuring+Data" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" />
+
+</p>
 
 ---
 
-# ✨ Also Experienced In
-```
-Flask  
-Streamlit  
-Matplotlib  
-Data Preprocessing  
-Model Deployment  
-```
+<h2 align="center">✨ Also Experienced</h2>
 
----
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=1000&color=F39C12&center=true&vCenter=true&width=500&lines=Additional+Tools+%26+Libraries" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55" />
+
+</p>
+
+<!-- Beautiful footer animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2700&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Always+Learning+%F0%9F%92%96;Always+Building+%F0%9F%9A%80;Always+Growing+%E2%9C%A8" />
+</p>
+
 
 # 🚀 Featured Projects
 
