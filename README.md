@@ -1,174 +1,121 @@
-<!-- ---------------------------------------------------------
-   🌟 Aesthetic & Personalized GitHub README for Anushka
------------------------------------------------------------- -->
+<!-- ===========================================================
+     🌟 Anushka Srivastava — Complete Animated README (No Images)
+============================================================== -->
 
-<!-- HEADER BANNER WITH GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/o7NCW5W.gif" width="600" />
-</p>
+<div align="center">
 
-<h1 align="center">✨ Hi, I'm <strong>Anushka Srivastava</strong> ✨</h1>
+# ✨ Anushka Srivastava  
+### Full-Stack Developer • AI/ML Enthusiast • IEEE Leader
 
-<h3 align="center">
-  Full-Stack Developer • AI/ML Enthusiast • IEEE Leader  
-</h3>
-
-<p align="center">
-  Passionate about building delightful user experiences, powerful backend systems,  
-  and intelligent ML-powered applications that make real-world impact 🌍  
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00C3FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;AI+Cloud+Explorer;Problem+Solver+%26+Tech+Innovator;Always+Learning.+Always+Building." />
 
 ---
 
-## 🌈 **About Me**
+## 🌈 About Me
 
-💡 I love creating meaningful digital products — from full-stack applications to intelligent ML solutions.  
-🚀 Tech excites me, but solving real-world problems excites me even more.  
-🌸 My work blends creativity, logic, and user empathy.  
-📚 Lifelong learner, exploring Cloud • AI • Web Dev • Innovation.
-
----
-
-## 🦋 **Beautiful Badges**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anushka525&style=for-the-badge&color=ff69b4" />
-  <img src="https://img.shields.io/github/followers/anushka525?style=for-the-badge&color=7d5fff" />
-  <img src="https://img.shields.io/github/stars/anushka525?style=for-the-badge&color=00c9a7" />
-</p>
+```
+A creative developer who enjoys building beautiful,
+scalable and intelligent applications using modern tech.
+I blend design, logic and machine learning to solve problems
+that matter in the real world.
+```
 
 ---
 
-<!-- ---------------------------------------------------------
-   🌟 Skills Section with Icons (Same Style as Your Screenshot)
------------------------------------------------------------- -->
-
-<h2 align="center">Skills, Tools and Frameworks</h2>
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" />
-
-  <!-- Frameworks & ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=keras" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" /> <!-- optional -->
-</p>
+# 🎨 Skills, Tools & Frameworks  
+### (Animated — No Images)
 
 ---
 
-<h2 align="center">Platforms</h2>
+### 💻 Languages  
+```
+🟦 Java  
+🐍 Python  
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" /> <!-- optional -->
-  <img src="https://skillicons.dev/icons?i=colab" height="50" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=FFB300&center=false&vCenter=true&width=500&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+React.js;Node.js+%7C+Express.js;TensorFlow+%7C+Keras+%7C+Scikit-Learn;Pandas+%7C+NumPy;SQL+%7C+MongoDB" />
 
 ---
 
-<h2 align="center">Databases</h2>
+# 🛠 Platforms & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" /> <!-- optional -->
-</p>
+```
+VS Code  
+Git & GitHub  
+Google Colab  
+IBM Cloud  
+Postman  
+Figma  
+```
 
----
-
-<h2 align="center">Also Experienced</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="50" /> <!-- optional -->
-  <img src="https://skillicons.dev/icons?i=linux" height="50" />
-  <img src="https://skillicons.dev/icons?i=canva" height="50" />
-</p>
-
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=2ECC71&center=false&vCenter=true&width=500&lines=Productive+on+Web%2C+Cloud+%26+ML+Platforms." />
 
 ---
 
-## 🌸 **Aesthetic GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka525&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=anushka525&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka525&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-</p>
+# 🗄 Databases
+```
+MySQL  
+MongoDB  
+```
 
 ---
 
-## 🧪 **My Projects (Handpicked)**
-
-### 🌾 **Crop Recommendation System**
-**Tech:** Python, Random Forest, Flask  
-✔️ 99.31% accurate crop prediction  
-✔️ Full ML pipeline + REST API  
-✔️ Built with real-world applicability in mind  
-
----
-
-### 🪲 **Insect Identifier Web App**
-**Tech:** TensorFlow, Keras, Streamlit  
-✔️ 92% accuracy on 1k+ images  
-✔️ Built using MobileNetV2  
-✔️ User-friendly interface for non-experts  
+# ✨ Also Experienced In
+```
+Flask  
+Streamlit  
+Matplotlib  
+Data Preprocessing  
+Model Deployment  
+```
 
 ---
 
-## 💼 **Experience Highlights**
+# 🚀 Featured Projects
 
-### 🔍 **AI & Data Science Intern — Learnovate (2025)**
-- Built ML/DL architectures  
-- Deployed data-driven solutions  
-- Hands-on model evaluation experience  
-
-### ☁️ **IBM Cloud AI Intern — AICTE (2024)**
-- Built cloud-based ML solutions  
-- Worked with scalable IBM Cloud pipelines  
-- Developed practical enterprise-level ML models  
+### 🌾 Crop Recommendation System  
+```
+✔ 99.31% accuracy  
+✔ ML pipeline with Random Forest  
+✔ Flask API for real-time predictions  
+✔ Preprocessing → Modeling → Deployment  
+```
 
 ---
 
-## 🏆 **Leadership & Achievements**
+### 🪲 Insect Identifier System  
+```
+✔ Deep Learning with TensorFlow  
+✔ 92% accuracy on 1k+ images  
+✔ Built using MobileNetV2  
+✔ Streamlit interface for ease of use  
+```
 
-🌸 Secretary — IEEE Computer Society  
-🌸 Vice Chair — IEEE Women in Engineering  
-🌸 Led 10+ members across events & initiatives  
-🌸 Published 15+ articles (500+ readers)  
-🌸 2× Third-place — Intercollege Debate & GD  
+---
+
+# 🏅 Leadership & Achievements
+
+```
+🚀 Secretary — IEEE Computer Society  
+🚀 Vice Chair — IEEE Women in Engineering  
+📝 15+ Published Articles (500+ Readers)  
+🏆 2× Third Place — Debate & Group Discussion  
+👥 Led & mentored 10+ team members  
+```
 
 ---
 
-## 💗 **Let’s Connect!**
+# 📬 Connect With Me
 
-<p>
-  <a href="mailto:anushkasriv52@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/anushka-sriv"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/anushka525"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/NyQJ0Qh.gif" width="200" />
-</p>
+```
+📧 Email: anushkasriv52@gmail.com  
+🔗 LinkedIn: linkedin.com/in/anushka-sriv  
+💻 GitHub: github.com/anushka525  
+```
 
 ---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2900&pause=500&color=F774FF&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together+💫" />
+
+</div>
+
