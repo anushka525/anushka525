@@ -117,25 +117,80 @@ that matter in the real world.
 </p>
 
 
-# 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🌾 Crop Recommendation System  
-```
-✔ 99.31% accuracy  
-✔ ML pipeline with Random Forest  
-✔ Flask API for real-time predictions  
-✔ Preprocessing → Modeling → Deployment  
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=FF3CAC&center=true&vCenter=true&width=650&lines=Projects+that+I%E2%80%99ve+built+with+passion+%26+purpose.;Full-Stack+Web+Apps+%7C+Machine+Learning+%7C+Deep+Learning" />
+</p>
 
 ---
 
-### 🪲 Insect Identifier System  
-```
-✔ Deep Learning with TensorFlow  
-✔ 92% accuracy on 1k+ images  
-✔ Built using MobileNetV2  
-✔ Streamlit interface for ease of use  
-```
+<!-- ========================== FEASTFAST ============================= -->
+
+<h3>🍔 FeastFast — Food Delivery Web App</h3>
+
+<div align="center">
+  <pre style="background:#F7F9FB;padding:20px;border-radius:12px;width:90%;border:1px solid #e6e6e6;font-size:15px;line-height:1.6;">
+✔ Launched a responsive food-delivery web app built with React.js  
+✔ Component-based architecture with reusable UI modules  
+✔ Implemented Redux Toolkit + Context API for optimized state management  
+✔ Designed a clean UI using Tailwind CSS  
+✔ Integrated real-time notifications, earning 90% positive user feedback  
+  </pre>
+</div>
+
+---
+
+<!-- ========================== WANDERLIST ============================= -->
+
+<h3>🧭 WanderList — Travel & Review Platform</h3>
+
+<div align="center">
+  <pre style="background:#F7F9FB;padding:20px;border-radius:12px;width:90%;border:1px solid #e6e6e6;font-size:15px;line-height:1.6;">
+✔ Developed a full-stack travel web app using MVC architecture  
+✔ Implemented browsing, creating, and reviewing features with authentication  
+✔ Built a secure backend using Node.js, Express.js, and MongoDB  
+✔ Optimized for scalability, supporting 1,000+ concurrent users  
+✔ Received positive feedback across 1+ academic presentations  
+  </pre>
+</div>
+
+---
+
+<!-- ========================== CROP RECOMMENDATION ============================= -->
+
+<h3>🌾 Crop Recommendation System</h3>
+
+<div align="center">
+  <pre style="background:#F7F9FB;padding:20px;border-radius:12px;width:90%;border:1px solid #e6e6e6;font-size:15px;line-height:1.6;">
+✔ 99.31% accurate machine learning model using Random Forest  
+✔ Built a Flask API for delivering real-time crop recommendations  
+✔ Complete ML pipeline: Preprocessing → Training → Deployment  
+✔ Designed for real-world agricultural use cases  
+  </pre>
+</div>
+
+---
+
+<!-- ========================== INSECT IDENTIFIER ============================= -->
+
+<h3>🪲 Insect Identifier System</h3>
+
+<div align="center">
+  <pre style="background:#F7F9FB;padding:20px;border-radius:12px;width:90%;border:1px solid #e6e6e6;font-size:15px;line-height:1.6;">
+✔ Deep learning model built with TensorFlow  
+✔ Achieved 92% accuracy on 1k+ images  
+✔ Utilized MobileNetV2 for efficient real-time classification  
+✔ Streamlit-based interface for a seamless user experience  
+  </pre>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2300&pause=900&color=6A5ACD&center=true&vCenter=true&width=700&lines=More+exciting+projects+coming+soon...;Always+building+%F0%9F%9A%80%F0%9F%92%96" />
+</p>
+
 
 ---
 
