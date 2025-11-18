@@ -11,14 +11,26 @@
 
 ---
 
-## 🌈 About Me
+<h2 align="center">🌈 About Me</h2>
 
-```
+<!-- Animated line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00C3FF&center=true&vCenter=true&width=600&lines=A+creative+developer+who+loves+building+beautiful+products.;Passionate+about+AI%2C+Web+Development%2C+and+user+focused+design.;Always+learning.+Always+evolving.+Always+building." />
+</p>
+
+<!-- Aesthetic soft container -->
+<div align="center">
+  <pre style="background:#F7F9FB; padding:20px; border-radius:12px; font-size:16px; line-height:1.5; border:1px solid #e6e6e6; max-width:800px;">
 A creative developer who enjoys building beautiful,
 scalable and intelligent applications using modern tech.
 I blend design, logic and machine learning to solve problems
 that matter in the real world.
-```
+  </pre>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=FF69B4&center=true&vCenter=true&width=550&lines=Bringing+ideas+to+life+with+creativity+%26+code+✨" />
+</p>
 
 ---
 
