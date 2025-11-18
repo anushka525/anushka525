@@ -39,39 +39,68 @@
 
 ---
 
-## 🎨 **Tech Stack (With Beautiful Icons)**
+<!-- ---------------------------------------------------------
+   🌟 Skills Section with Icons (Same Style as Your Screenshot)
+------------------------------------------------------------ -->
 
-### 🌼 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
+<h2 align="center">Skills, Tools and Frameworks</h2>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  
+  <!-- Web Dev -->
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" />
+
+  <!-- Frameworks & ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=keras" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" /> <!-- optional -->
 </p>
 
-### 🎀 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+---
+
+<h2 align="center">Platforms</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" /> <!-- optional -->
+  <img src="https://skillicons.dev/icons?i=colab" height="50" />
 </p>
 
-### 🌙 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+---
+
+<h2 align="center">Databases</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" /> <!-- optional -->
 </p>
 
-### 🧠 **Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+---
+
+<h2 align="center">Also Experienced</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="50" /> <!-- optional -->
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=canva" height="50" />
 </p>
 
-Scikit-Learn • NumPy • Pandas • Matplotlib
-
-### 📦 **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
 ---
 
