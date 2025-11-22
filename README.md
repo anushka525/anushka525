@@ -6,8 +6,80 @@
 
 <!-- Cute minimal coding girl (local upload path — your tooling will convert it) -->
 <p align="center">
-  <img src="/mnt/data/5f2d3ced-68a3-46ff-bfb6-2426d063028e.png" alt="Coding Girl" width="260" style="border-radius:18px; box-shadow: 0 8px 24px rgba(0,0,0,0.08);"/>
+<svg width="280" height="280" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Hair (with sway animation) -->
+    <path id="hair" d="M150 60 C110 60 80 95 85 135 C90 175 120 200 150 200 C180 200 210 175 215 135 C220 95 190 60 150 60Z"
+          fill="#2A2A72">
+        <animate attributeName="d" dur="3s" repeatCount="indefinite"
+                 values="
+                 M150 60 C110 60 80 95 85 135 C90 175 120 200 150 200 C180 200 210 175 215 135 C220 95 190 60 150 60Z;
+                 M150 62 C112 58 82 92 87 135 C90 178 120 202 150 202 C178 202 208 178 213 135 C218 92 192 58 150 62Z;
+                 M150 60 C110 60 80 95 85 135 C90 175 120 200 150 200 C180 200 210 175 215 135 C220 95 190 60 150 60Z" />
+    </path>
+
+    <!-- Face -->
+    <circle cx="150" cy="130" r="45" fill="#FFD6CC" />
+
+    <!-- Eyes -->
+    <circle id="eyeLeft" cx="135" cy="125" r="6" fill="#333" />
+    <circle id="eyeRight" cx="165" cy="125" r="6" fill="#333" />
+
+    <!-- Blinking -->
+    <rect x="129" y="125" width="12" height="0" fill="#333">
+        <animate attributeName="height"
+                 values="0;12;0"
+                 dur="4s"
+                 repeatCount="indefinite"
+                 begin="0.5s" />
+    </rect>
+    <rect x="159" y="125" width="12" height="0" fill="#333">
+        <animate attributeName="height"
+                 values="0;12;0"
+                 dur="4s"
+                 repeatCount="indefinite"
+                 begin="0.5s" />
+    </rect>
+
+    <!-- Laptop -->
+    <rect x="90" y="170" width="120" height="70" rx="10" fill="#1F1F1F" />
+    <rect x="95" y="175" width="110" height="60" rx="8" fill="#00D1FF" opacity="0.7">
+        <!-- Glowing screen pulse -->
+        <animate attributeName="opacity"
+                 values="0.5;0.9;0.5"
+                 dur="2.4s"
+                 repeatCount="indefinite" />
+    </rect>
+
+    <!-- Hands typing -->
+    <circle id="handLeft" cx="130" cy="210" r="12" fill="#FFD6CC">
+        <animate attributeName="cy"
+                 values="210;215;210"
+                 dur="0.5s"
+                 repeatCount="indefinite" />
+    </circle>
+    <circle id="handRight" cx="170" cy="210" r="12" fill="#FFD6CC">
+        <animate attributeName="cy"
+                 values="210;215;210"
+                 dur="0.5s"
+                 repeatCount="indefinite"
+                 begin="0.2s" />
+    </circle>
+
+    <!-- Sparkles -->
+    <circle cx="60" cy="80" r="4" fill="#FF8EDC">
+        <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite" />
+        <animate attributeName="cy" values="80;75;80" dur="2s" repeatCount="indefinite" />
+    </circle>
+
+    <circle cx="240" cy="90" r="4" fill="#75F0FF">
+        <animate attributeName="opacity" values="1;0;1" dur="2.5s" repeatCount="indefinite" />
+        <animate attributeName="cy" values="90;85;90" dur="2.5s" repeatCount="indefinite" />
+    </circle>
+
+</svg>
 </p>
+
 
 # ✨ Anushka Srivastava  
 ### Full-Stack Developer • AI/ML Enthusiast • IEEE Leader
@@ -41,7 +113,7 @@ that matter in the real world.
 
 # 🎨 Skills, Tools & Frameworks
 
-<h2 align="center">🌈 Skills, Tools and Frameworks</h2>
+<!-- <h2 align="center">🌈 Skills, Tools and Frameworks</h2> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2700&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Languages+%7C+Frontend+%7C+Backend+%7C+ML+Tools" alt="skills-typing" />
