@@ -230,11 +230,9 @@ that matter in the real world.
   </a>
   &nbsp;&nbsp;
   <!-- Resume / PDF badge (links to your uploaded resume file if hosted) -->
-  <!-- Resume badge -->
-<a href="/mnt/data/main.pdf" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Resume-Download-00C3FF?style=for-the-badge&logo=adobeacrobat" alt="resume-badge" />
+  <a href="https://github.com/anushka525/anushka525/raw/main/main.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs" />
 </a>
-
 </p>
 
 <p align="center">
