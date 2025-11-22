@@ -214,9 +214,10 @@ that matter in the real world.
 
 <p align="center">
   <!-- Email badge -->
-  <a href="mailto:anushkasriv52@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-anushkasriv52%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="email-badge" />
-  </a>
+  <!-- Email badge -->
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anushkasriv52@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-anushkasriv52%40gmail.com-ff69b4?style=for-the-badge&logo=gmail" alt="email-badge" />
+</a>
   &nbsp;&nbsp;
   <!-- LinkedIn badge -->
   <a href="https://www.linkedin.com/in/anushka-sriv" target="_blank" rel="noreferrer" style="text-decoration:none;">
@@ -229,9 +230,11 @@ that matter in the real world.
   </a>
   &nbsp;&nbsp;
   <!-- Resume / PDF badge (links to your uploaded resume file if hosted) -->
-  <a href="/mnt/data/main.pdf" target="_blank" rel="noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Resume-Download-00C3FF?style=for-the-badge&logo=adobeacrobat" alt="resume-badge" />
-  </a>
+  <!-- Resume badge -->
+<a href="/mnt/data/main.pdf" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Resume-Download-00C3FF?style=for-the-badge&logo=adobeacrobat" alt="resume-badge" />
+</a>
+
 </p>
 
 <p align="center">
