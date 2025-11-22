@@ -206,7 +206,7 @@ that matter in the real world.
 
 ---
 
-## 📬 Connect With Me (Animated & Interactive)
+## 📬 Connect With Me 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=600&color=00D1FF&center=true&vCenter=true&width=700&lines=Let's+connect+%F0%9F%93%A2;Reach+out+for+collabs%2C+open+roles+%26+friendly+chats" alt="connect-typing" />
