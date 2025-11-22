@@ -18,10 +18,16 @@
 
 <h2 align="center">🌈 About Me</h2>
 
+<!-- 🔵 Fixed animated intro line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00C3FF&center=true&vCenter=true&width=600&lines=A+creative+developer+who+loves+building+beautiful+products.;Passionate+about+AI%2C+Web+Development%2C+and+user+focused+design.;Always+learning.+Always+evolving.+Always+building." alt="about-typing" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C3FF&center=true&vCenter=true&width=1200&height=60&lines=A+creative+developer+who+loves+building+beautiful+products.;Passionate+about+AI,+Web+Development,+and+user-focused+design.;Always+learning.+Always+evolving.+Always+building."
+    alt="about-typing"
+    style="max-width: 100%; display: block;"
+  />
 </p>
 
+<!-- Soft aesthetic container -->
 <div align="center">
   <pre style="background:#F7F9FB; padding:20px; border-radius:12px; font-size:16px; line-height:1.5; border:1px solid #e6e6e6; max-width:800px;">
 A creative developer who enjoys building beautiful,
@@ -31,9 +37,15 @@ that matter in the real world.
   </pre>
 </div>
 
+<!-- 💗 Fixed closing animation line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=FF69B4&center=true&vCenter=true&width=550&lines=Bringing+ideas+to+life+with+creativity+%26+code+✨" alt="closing-line" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=900&color=FF69B4&center=true&vCenter=true&width=1200&height=60&lines=Bringing+ideas+to+life+with+creativity+%26+code+✨"
+    alt="closing-line"
+    style="max-width: 100%; display: block;"
+  />
 </p>
+
 
 ---
 
